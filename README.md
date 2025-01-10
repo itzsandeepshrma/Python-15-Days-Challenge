@@ -1,6 +1,4 @@
-# Python 15 Day's Challenge 
-
-## 15 Days Challenge 
+# Python 15 Day's Challenge
 
 - **Day 01 1: Modules, Comments & pip**
   - [Modules,Comments & pip](https://github.com/itzsandeepshrma/Python-15-Days-Challenge/tree/main/Day01)
