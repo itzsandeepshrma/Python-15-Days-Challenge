@@ -1,6 +1,6 @@
 # Python 15 Day's Challenge
 
-- **Day 01 1: Modules, Comments & pip**
+- **Day 01 : Modules, Comments & pip**
   - [Modules,Comments & pip](https://github.com/itzsandeepshrma/Python-15-Days-Challenge/tree/main/Day01)
   - Python Basics: Understanding variables, input/output, and the interpreter.
   - String Values: How Python handles text data.
@@ -8,3 +8,13 @@
   - Modules and PIP: Exploring Python libraries and the power of PIP for package management.
   - Calculations: Performing basic arithmetic operations in Python.
   - [Practice Question and Solution](https://github.com/itzsandeepshrma/Python-15-Days-Challenge/tree/main/Day01/Practice)
+
+- **Day 02 : Variables and Data Types**
+  - [Variables and Data Types](https://github.com/itzsandeepshrma/Python-15-Days-Challenge/tree/main/Day02)
+  -  Understanding Variables and Data Types
+  - How to define variables effectively
+  - Exploring the different data types in Python
+  - Mastering the rules for choosing identifiers
+  - Playing with Python operators
+  - Using the type() function and diving into typecasting
+  - Taking user input with the input() function
