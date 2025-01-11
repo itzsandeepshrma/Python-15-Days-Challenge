@@ -19,3 +19,10 @@
   - Playing with Python operators
   - Using the type() function and diving into typecasting
   - Taking user input with the input() function
+
+- **Day 03:Strings**
+  - [Strings](https://github.com/itzsandeepshrma/Python-15-Days-Challenge/tree/main/Day03)
+  - String slicing
+  - Slicing with skip values
+  - String functions
+  - Escape sequence characters
