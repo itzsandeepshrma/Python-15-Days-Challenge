@@ -29,6 +29,7 @@
   - Escape sequence characters
 
 - **Day 04: Lists and Tuples**
+  - [Lists and Tuples](https://github.com/itzsandeepshrma/Python-15-Days-Challenge/tree/main/Day04)
   - List indexing
   - List methods
   - Tuples in Python
