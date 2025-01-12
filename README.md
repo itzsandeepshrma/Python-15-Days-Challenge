@@ -27,3 +27,9 @@
   - Slicing with skip values
   - String functions
   - Escape sequence characters
+
+- **Day 04: Lists and Tuples**
+  - List indexing
+  - List methods
+  - Tuples in Python
+  - Tuple methods
