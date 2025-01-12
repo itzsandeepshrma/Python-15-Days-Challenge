@@ -19,6 +19,7 @@
   - Playing with Python operators
   - Using the type() function and diving into typecasting
   - Taking user input with the input() function
+  - [Practice Question and Solution](https://github.com/itzsandeepshrma/Python-15-Days-Challenge/tree/main/Day02/Practice)
 
 - **Day 03:Strings**
   - [Strings](https://github.com/itzsandeepshrma/Python-15-Days-Challenge/tree/main/Day03)
