@@ -1,4 +1,4 @@
-# Python 15 Day's Challenge
+# Python 30 Day's Challenge
 ![images (10)](https://github.com/user-attachments/assets/502a98d3-22c0-40ae-82cf-aca8c6d8d896)
 
 - **Day 01 : Modules, Comments & pip**
